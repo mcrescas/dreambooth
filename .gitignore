@@ -1,0 +1,9 @@
+diffusers/*
+data/*
+models/*
+outputs/*
+regularization_images/*
+stable-diffusion/*
+stable-diffusion-webui/*
+trained/*
+xformers/*
